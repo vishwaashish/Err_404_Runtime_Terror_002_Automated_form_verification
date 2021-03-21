@@ -5,11 +5,11 @@ Video File: - <a href="https://github.com/vishwaashish/Err_404_Runtime_Terror_00
 
 
 <h2>Files<h2>
- <p>
+ <h6>
  adddata.php - > To Add Data<br>
  list_user.php - > View All Employee <br>
  updatedatauser - > Edit User detail Only done by employee <br>
  shoeqrcode.php -> Generate QRcode and link <br>
  updatedata - > Edit User detail Only done by User <br>
-  </p>
+  </h6>
 
